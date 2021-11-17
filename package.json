@@ -1,0 +1,22 @@
+{
+  "name": "@enffinity/discordfun",
+  "version": "0.0.1",
+  "description": "a fun discord library",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enffinity/discordfun.git"
+  },
+  "author": "enffinity",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/enffinity/discordfun/issues"
+  },
+  "homepage": "https://github.com/enffinity/discordfun#readme",
+  "dependencies": {
+    "node-fetch": "^3.1.0"
+  }
+}
